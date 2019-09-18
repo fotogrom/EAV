@@ -1,0 +1,12 @@
+{
+  "name": "eav",
+  "description": "bundle implements entity-attribute-value paradigm",
+  "type": "symfony-bundle",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Gromov\\EAVBundle\\": "Gromov/EAVBundle"
+    }
+  }
+
+}
